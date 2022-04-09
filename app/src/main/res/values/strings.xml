@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FSP</string>
+    <string name="type_card">Debit Card</string>
+    <string name="nameOfCard">Name Surname</string>
+    <string name="DateOfCard">12/24</string>
+    <string name="mastercard">Mastercard</string>
+    <string name="paypass">paypass</string>
+    <string name="chip">chip</string>
+    <string name="edit_card">Edit card</string>
+</resources>
